@@ -3,4 +3,5 @@ This is my file new changes
 This is seconf
 
 this is third
-`
+
+This is change for diff`
